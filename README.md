@@ -49,4 +49,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Enjoy playing the Simon Game! If you have any feedback or questions, feel free to open an issue or reach out to me on [GitHub](https://github.com/ShivamKSah). Let's see how far you can get!
-```
