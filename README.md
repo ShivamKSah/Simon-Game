@@ -41,11 +41,6 @@ Ready to play? Follow these simple steps to get started.
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## 🙏 Acknowledgments
-
-- Inspired by the timeless Simon Game.
-- Special thanks to the jQuery community for their incredible contributions.
-
 ---
 
 Enjoy playing the Simon Game! If you have any feedback or questions, feel free to open an issue or reach out to me on [GitHub](https://github.com/ShivamKSah). Let's see how far you can get!
