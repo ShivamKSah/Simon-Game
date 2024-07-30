@@ -2,7 +2,7 @@
 
 Welcome to the Simon Game! Test your memory skills with this web-based version of the classic game, where you must remember and replicate sequences of colors and sounds. Built with HTML, CSS, and JavaScript (utilizing jQuery), this project promises endless fun and a good brain workout!
 
-![Simon Game Screenshot](images/simon-game-screenshot.jpg)
+![Simon Game Screenshot](images/simon-game-screenshot.png)
 
 ## 🚀 Getting Started
 
