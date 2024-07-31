@@ -5,9 +5,9 @@ Welcome to the Simon Game! Test your memory skills with this web-based version o
 ![Simon Game Screenshot](images/simon-game-screenshot.png)
 
 ## 🚀 Getting Started
+Ready to play? You can play the game directly on your web browser by visiting [Simon Game](https://shivamksah.github.io/Simon-Game/).
 
-Ready to play? Follow these simple steps to get started.
-
+Follow these simple steps to get started on your local computer.
 ### 🔧 Installation
 
 1. Clone this repository to your local machine:
